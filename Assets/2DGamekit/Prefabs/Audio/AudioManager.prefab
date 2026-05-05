@@ -403,6 +403,13 @@ MonoBehaviour:
       Data3: 0
       Data4: 0
     Path: 
+  playerAttackRanged:
+    Guid:
+      Data1: -883968173
+      Data2: 1214887202
+      Data3: -1200054115
+      Data4: -1720930764
+    Path: event:/Music/Stingers/Stinger_Progression
   playerHurt:
     Guid:
       Data1: 0
