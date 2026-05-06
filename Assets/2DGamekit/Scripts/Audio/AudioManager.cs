@@ -107,7 +107,7 @@ public class AudioManager : MonoBehaviour
             RuntimeManager.StudioSystem.setParameterByName(killedEnemiesParam, killedEnemies);
         }
 
-        Debug.Log(aggroEnemyCount);
+        //Debug.Log(aggroEnemyCount);
         
         //RuntimeManager.StudioSystem.setParameterByName(aggroEnemyParamName, aggroEnemyCount);
     }
