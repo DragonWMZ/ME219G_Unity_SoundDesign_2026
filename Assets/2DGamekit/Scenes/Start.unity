@@ -29066,6 +29066,481 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: boxPush.Path
+      value: event:/OtherStuff/Interactibles/InterBoxPush
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: doorOpen.Path
+      value: event:/OtherStuff/Interactibles/IntedDoorOpen
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: menuClick.Path
+      value: event:/UIClick
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: pickupKey.Path
+      value: event:/OtherStuff/Interactibles/InterKeyPickup
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: acidSplash.Path
+      value: event:/OtherStuff/Ambience/AmbAcidSplash
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: doorSwitch.Path
+      value: event:/OtherStuff/Interactibles/InterSwitch
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: enemyDeath.Path
+      value: event:/OtherStuff/Enemies/MinorEnemies/EnemyChomperSpitterDeath
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: enemyMelee.Path
+      value: event:/OtherStuff/Enemies/MinorEnemies/EnemyChomperAtk
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerHurt.Path
+      value: event:/OtherStuff/Avatar/AvatarDamage
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerJump.Path
+      value: event:/OtherStuff/Avatar/AvatarJump
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerLand.Path
+      value: event:/OtherStuff/Avatar/AvatarLand
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: enemyRanged.Path
+      value: event:/OtherStuff/Enemies/MinorEnemies/EnemySpitterAtk
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: pressurePad.Path
+      value: event:/UIClick
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: wallDestroy.Path
+      value: event:/OtherStuff/Interactibles/InterDestroyWall
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: pickupHealth.Path
+      value: event:/OtherStuff/Interactibles/InterHPPickup
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: boxPush.Guid.Data1
+      value: -1470052458
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: boxPush.Guid.Data2
+      value: 1173503981
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: boxPush.Guid.Data3
+      value: -1619385428
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: boxPush.Guid.Data4
+      value: 1910053605
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: menuStartGame.Path
+      value: event:/UIClick
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: doorOpen.Guid.Data1
+      value: -798998235
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: doorOpen.Guid.Data2
+      value: 1100694210
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: doorOpen.Guid.Data3
+      value: -2080466271
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: doorOpen.Guid.Data4
+      value: 601282985
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: menuClick.Guid.Data1
+      value: 918758047
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: menuClick.Guid.Data2
+      value: 1244107794
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: menuClick.Guid.Data3
+      value: -419716204
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: menuClick.Guid.Data4
+      value: -681200931
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: pickupKey.Guid.Data1
+      value: 798848461
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: pickupKey.Guid.Data2
+      value: 1101399771
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: pickupKey.Guid.Data3
+      value: 1729301439
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: pickupKey.Guid.Data4
+      value: -2142292286
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerFootsteps.Path
+      value: event:/OtherStuff/Avatar/AvatarWalk
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: acidSplash.Guid.Data1
+      value: 2029124997
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: acidSplash.Guid.Data2
+      value: 1177039526
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: acidSplash.Guid.Data3
+      value: -834622793
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: acidSplash.Guid.Data4
+      value: 1764029746
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: doorSwitch.Guid.Data1
+      value: -1512004924
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: doorSwitch.Guid.Data2
+      value: 1176203913
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: doorSwitch.Guid.Data3
+      value: -1962578036
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: doorSwitch.Guid.Data4
+      value: -1034164054
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: enemyDeath.Guid.Data1
+      value: -1941870535
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: enemyDeath.Guid.Data2
+      value: 1258138222
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: enemyDeath.Guid.Data3
+      value: 69335991
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: enemyDeath.Guid.Data4
+      value: -656694066
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: enemyMelee.Guid.Data1
+      value: -369607897
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: enemyMelee.Guid.Data2
+      value: 1192376233
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: enemyMelee.Guid.Data3
+      value: 385969550
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: enemyMelee.Guid.Data4
+      value: -141996946
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerHurt.Guid.Data1
+      value: -2070847385
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerHurt.Guid.Data2
+      value: 1194218177
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerHurt.Guid.Data3
+      value: -527497568
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerHurt.Guid.Data4
+      value: 937101790
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerJump.Guid.Data1
+      value: -433698724
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerJump.Guid.Data2
+      value: 1207796201
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerJump.Guid.Data3
+      value: -1626552655
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerJump.Guid.Data4
+      value: 1827019852
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerLand.Guid.Data1
+      value: 910709376
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerLand.Guid.Data2
+      value: 1232950297
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerLand.Guid.Data3
+      value: -948870737
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerLand.Guid.Data4
+      value: -2126009157
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: enemyRanged.Guid.Data1
+      value: 63933863
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: enemyRanged.Guid.Data2
+      value: 1245767665
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: enemyRanged.Guid.Data3
+      value: -139290486
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: enemyRanged.Guid.Data4
+      value: -535473041
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerAttackMelee.Path
+      value: event:/OtherStuff/Avatar/AvatarMelee
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: pressurePad.Guid.Data1
+      value: 918758047
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: pressurePad.Guid.Data2
+      value: 1244107794
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: pressurePad.Guid.Data3
+      value: -419716204
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: pressurePad.Guid.Data4
+      value: -681200931
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: wallDestroy.Guid.Data1
+      value: -1654179113
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: wallDestroy.Guid.Data2
+      value: 1209757696
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: wallDestroy.Guid.Data3
+      value: 2023784889
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: wallDestroy.Guid.Data4
+      value: -1908396947
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: pickupHealth.Guid.Data1
+      value: -455965454
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: pickupHealth.Guid.Data2
+      value: 1272871383
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: pickupHealth.Guid.Data3
+      value: -384128610
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: pickupHealth.Guid.Data4
+      value: -685015342
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerAttackRanged.Path
+      value: event:/OtherStuff/Avatar/AvatarLaser
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: menuStartGame.Guid.Data1
+      value: 918758047
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: menuStartGame.Guid.Data2
+      value: 1244107794
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: menuStartGame.Guid.Data3
+      value: -419716204
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: menuStartGame.Guid.Data4
+      value: -681200931
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerFootsteps.Guid.Data1
+      value: 1786003046
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerFootsteps.Guid.Data2
+      value: 1328564815
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerFootsteps.Guid.Data3
+      value: -261652335
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerFootsteps.Guid.Data4
+      value: -350526161
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerAttackMelee.Guid.Data1
+      value: 1228598537
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerAttackMelee.Guid.Data2
+      value: 1163068131
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerAttackMelee.Guid.Data3
+      value: -1701880917
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerAttackMelee.Guid.Data4
+      value: 2114150214
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerAttackRanged.Guid.Data1
+      value: 1206530218
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerAttackRanged.Guid.Data2
+      value: 1079172161
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerAttackRanged.Guid.Data3
+      value: -988076614
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerAttackRanged.Guid.Data4
+      value: 1944226379
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
