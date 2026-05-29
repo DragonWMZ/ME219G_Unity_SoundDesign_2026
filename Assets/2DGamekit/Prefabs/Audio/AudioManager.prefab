@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1599626887789816280}
   - component: {fileID: 3752744578151622199}
+  - component: {fileID: 6461824925839184220}
   m_Layer: 0
   m_Name: Ambience
   m_TagString: Ambiance
@@ -47,11 +48,11 @@ MonoBehaviour:
   CollisionTag: 
   EventReference:
     Guid:
-      Data1: -647119036
-      Data2: 1087082831
-      Data3: 1382873999
-      Data4: 1832751890
-    Path: event:/OtherStuff/Amb
+      Data1: -1850741997
+      Data2: 1248791198
+      Data3: 230303899
+      Data4: -314927237
+    Path: event:/OtherStuff/Ambience/AmbInsiceOutside
   Event: 
   EventPlayTrigger: 0
   EventStopTrigger: 0
@@ -63,6 +64,19 @@ MonoBehaviour:
   OverrideAttenuation: 0
   OverrideMinDistance: 1
   OverrideMaxDistance: 20
+--- !u!114 &6461824925839184220
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 899447863083865118}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e964efe0e8cd4ddba522c37df205aa5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AudioEmitterPosition
+  tagName: Player
 --- !u!1 &1146472850133498800
 GameObject:
   m_ObjectHideFlags: 0
@@ -377,116 +391,116 @@ MonoBehaviour:
     snapShotPause: {fileID: 7484880938483047845}
   playerFootsteps:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1786003046
+      Data2: 1328564815
+      Data3: -261652335
+      Data4: -350526161
+    Path: event:/OtherStuff/Avatar/AvatarWalk
   playerJump:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -433698724
+      Data2: 1207796201
+      Data3: -1626552655
+      Data4: 1827019852
+    Path: event:/OtherStuff/Avatar/AvatarJump
   playerLand:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 910709376
+      Data2: 1232950297
+      Data3: -948870737
+      Data4: -2126009157
+    Path: event:/OtherStuff/Avatar/AvatarLand
   playerAttackMelee:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1228598537
+      Data2: 1163068131
+      Data3: -1701880917
+      Data4: 2114150214
+    Path: event:/OtherStuff/Avatar/AvatarMelee
   playerAttackRanged:
     Guid:
-      Data1: -883968173
-      Data2: 1214887202
-      Data3: -1200054115
-      Data4: -1720930764
-    Path: event:/Music/Stingers/Stinger_Progression
+      Data1: 1206530218
+      Data2: 1079172161
+      Data3: -988076614
+      Data4: 1944226379
+    Path: event:/OtherStuff/Avatar/AvatarLaser
   playerHurt:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -2070847385
+      Data2: 1194218177
+      Data3: -527497568
+      Data4: 937101790
+    Path: event:/OtherStuff/Avatar/AvatarDamage
   wallDestroy:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1654179113
+      Data2: 1209757696
+      Data3: 2023784889
+      Data4: -1908396947
+    Path: event:/OtherStuff/Interactibles/InterDestroyWall
   pickupHealth:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -455965454
+      Data2: 1272871383
+      Data3: -384128610
+      Data4: -685015342
+    Path: event:/OtherStuff/Interactibles/InterHPPickup
   doorSwitch:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1512004924
+      Data2: 1176203913
+      Data3: -1962578036
+      Data4: -1034164054
+    Path: event:/OtherStuff/Interactibles/InterSwitch
   doorOpen:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -798998235
+      Data2: 1100694210
+      Data3: -2080466271
+      Data4: 601282985
+    Path: event:/OtherStuff/Interactibles/IntedDoorOpen
   pickupKey:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 798848461
+      Data2: 1101399771
+      Data3: 1729301439
+      Data4: -2142292286
+    Path: event:/OtherStuff/Interactibles/InterKeyPickup
   pressurePad:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 918758047
+      Data2: 1244107794
+      Data3: -419716204
+      Data4: -681200931
+    Path: event:/UIClick
   acidSplash:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 2029124997
+      Data2: 1177039526
+      Data3: -834622793
+      Data4: 1764029746
+    Path: event:/OtherStuff/Ambience/AmbAcidSplash
   boxPush:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1470052458
+      Data2: 1173503981
+      Data3: -1619385428
+      Data4: 1910053605
+    Path: event:/OtherStuff/Interactibles/InterBoxPush
   menuClick:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 918758047
+      Data2: 1244107794
+      Data3: -419716204
+      Data4: -681200931
+    Path: event:/UIClick
   menuStartGame:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 918758047
+      Data2: 1244107794
+      Data3: -419716204
+      Data4: -681200931
+    Path: event:/UIClick
   enemyFootstep:
     Guid:
       Data1: 0
@@ -496,25 +510,25 @@ MonoBehaviour:
     Path: 
   enemyRanged:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 63933863
+      Data2: 1245767665
+      Data3: -139290486
+      Data4: -535473041
+    Path: event:/OtherStuff/Enemies/MinorEnemies/EnemySpitterAtk
   enemyMelee:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -369607897
+      Data2: 1192376233
+      Data3: 385969550
+      Data4: -141996946
+    Path: event:/OtherStuff/Enemies/MinorEnemies/EnemyChomperAtk
   enemyDeath:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1941870535
+      Data2: 1258138222
+      Data3: 69335991
+      Data4: -656694066
+    Path: event:/OtherStuff/Enemies/MinorEnemies/EnemyChomperSpitterDeath
   stingerGameOver:
     Guid:
       Data1: 715162006
